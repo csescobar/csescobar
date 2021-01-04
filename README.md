@@ -19,10 +19,6 @@
 </p>
 
 <p align="center">
-  📚 Graduating in <b>Analysis and Systems Development</b> &nbsp;
-</p>
-
-<p align="center">
   🌱 I am currently studying: ** Node.js, ReactJS, React Native and TypeScript **
 </p>
 

@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  💻 <b>Full Stack developer - Focused on ReactJS, React Native and NodeJS technologies </b> &nbsp;
+  💻 <b>Full Stack developer - Focused on C#, .NET Framework, .NET Core and AngularJS tecnologies</b> &nbsp;
 </p>
 
 ---
